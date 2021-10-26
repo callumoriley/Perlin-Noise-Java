@@ -83,10 +83,12 @@ public class Main extends JPanel {
     {
         return linearInterpolate(linearInterpolate(a, b, wx), linearInterpolate(c, d, wx), wy);
     }
+    /*
     public static double linearInterpolate(double a, double b, double w)
     {
         return (b - a) * w + a;
     }
+    */
     public static double fade(double t){ // this function is from here: https://rtouti.github.io/graphics/perlin-noise-algorithm
         return 6*t*t*t*t*t - 15*t*t*t*t + 10*t*t*t;
     }
