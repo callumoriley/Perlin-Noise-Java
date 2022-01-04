@@ -1,2 +1,5 @@
 # Perlin-Noise-Java
 Creates a 2D map of Perlin Noise using JFrame.
+
+NOTE: THIS CODE CONTAINS AN INTERPOLATION FUNCTION FROM THIS BLOG POST: https://rtouti.github.io/graphics/perlin-noise-algorithm
+THERE IS NOT A LICENSE ASSOCIATED WITH THE POST OR ANY CODE IN IT SO I ASSUME IT'S OK TO USE, BUT PLEASE LET ME KNOW IF I'M WRONG
